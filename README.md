@@ -7,7 +7,7 @@ Created this project in high school for our Programming Club
 
 ## How to Install & Run
 ```
-git clone https://github.com/krakenegg101/connect4-pygame
+git clone https://github.com/muntalee/connect4-pygame
 cd connect4-pygame
 python3 main.py
 ```
